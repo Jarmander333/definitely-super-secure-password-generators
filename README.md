@@ -10,6 +10,8 @@ Here are *my* updated rules for this:
   * `password3`
   * `password4`
   * And so on...
+* Pull Requests should be in a readable format saying what languages are being added
+  * For example... "[Username]-C-Python-JavaScript"
 * I'll add more as I figure more out.
 
 For now we have:
